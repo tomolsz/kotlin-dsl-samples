@@ -18,7 +18,7 @@ dependencies {
 
     compile(kotlin("stdlib"))
 
-    testCompile("junit:junit:4.12")
+    testCompile("junit:junit:4.13.2")
 }
 
 kapt {

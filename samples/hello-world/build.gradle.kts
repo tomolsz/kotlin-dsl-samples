@@ -12,7 +12,7 @@ java {
 }
 
 dependencies {
-    testCompile("junit:junit:4.12")
+    testCompile("junit:junit:4.13.2")
 }
 
 repositories {
