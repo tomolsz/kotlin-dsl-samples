@@ -13,7 +13,7 @@ dependencies {
     testImplementation(gradleKotlinDsl())
     testImplementation(gradleTestKit())
     testImplementation("org.gradle:sample-check:0.7.0")
-    testImplementation("junit:junit:4.12")
+    testImplementation("junit:junit:4.13.2")
     testImplementation(kotlin("stdlib"))
     testImplementation("org.xmlunit:xmlunit-matchers:2.5.1")
 }
