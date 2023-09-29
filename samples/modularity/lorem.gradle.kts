@@ -2,7 +2,7 @@ import com.thedeanda.lorem.*
 
 buildscript {
     dependencies {
-        classpath("com.thedeanda:lorem:2.1")
+        classpath("com.thedeanda:lorem:2.2")
     }
 
     repositories {
