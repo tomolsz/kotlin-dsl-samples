@@ -7,7 +7,7 @@ buildscript {
     }
 
     dependencies {
-        classpath("org.eclipse.jgit:org.eclipse.jgit:5.0.1.201806211838-r")
+        classpath("org.eclipse.jgit:org.eclipse.jgit:5.13.3.202401111512-r")
     }
 }
 
