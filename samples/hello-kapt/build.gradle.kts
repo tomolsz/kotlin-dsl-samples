@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     compileOnly("com.google.auto.value:auto-value-annotations:1.7")
-    kapt("com.google.auto.value:auto-value:1.7")
+    kapt("com.google.auto.value:auto-value:1.11.0")
 
     compile(kotlin("stdlib"))
 
