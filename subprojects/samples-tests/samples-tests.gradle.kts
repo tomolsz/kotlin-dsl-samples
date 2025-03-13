@@ -1,6 +1,6 @@
 plugins {
     kotlin("jvm") version embeddedKotlinVersion
-    id("org.gradle.kotlin-dsl.ktlint-convention") version "0.4.1"
+    id("org.gradle.kotlin-dsl.ktlint-convention") version "0.9.0"
 }
 
 repositories {
