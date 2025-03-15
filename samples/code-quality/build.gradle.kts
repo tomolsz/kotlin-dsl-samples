@@ -15,7 +15,7 @@ dependencies {
 }
 
 checkstyle {
-    toolVersion = "8.15"
+    toolVersion = "8.45.1"
     configFile = file("config/checkstyle/sun_checks.xml")
     isIgnoreFailures = true
 }
